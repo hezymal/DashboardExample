@@ -1,0 +1,17 @@
+C:\home\Dashboard\DashboardTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\home\Dashboard\DashboardTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\home\Dashboard\DashboardTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\home\Dashboard\DashboardTests\bin\Debug\netcoreapp2.2\DashboardTests.deps.json
+C:\home\Dashboard\DashboardTests\bin\Debug\netcoreapp2.2\DashboardTests.runtimeconfig.json
+C:\home\Dashboard\DashboardTests\bin\Debug\netcoreapp2.2\DashboardTests.runtimeconfig.dev.json
+C:\home\Dashboard\DashboardTests\bin\Debug\netcoreapp2.2\DashboardTests.dll
+C:\home\Dashboard\DashboardTests\bin\Debug\netcoreapp2.2\Dashboard.dll
+C:\home\Dashboard\DashboardTests\bin\Debug\netcoreapp2.2\Dashboard.pdb
+C:\home\Dashboard\DashboardTests\obj\Debug\netcoreapp2.2\DashboardTests.csprojAssemblyReference.cache
+C:\home\Dashboard\DashboardTests\obj\Debug\netcoreapp2.2\DashboardTests.csproj.CoreCompileInputs.cache
+C:\home\Dashboard\DashboardTests\obj\Debug\netcoreapp2.2\DashboardTests.AssemblyInfoInputs.cache
+C:\home\Dashboard\DashboardTests\obj\Debug\netcoreapp2.2\DashboardTests.AssemblyInfo.cs
+C:\home\Dashboard\DashboardTests\obj\Debug\netcoreapp2.2\DashboardTests.csproj.CopyComplete
+C:\home\Dashboard\DashboardTests\bin\Debug\netcoreapp2.2\DashboardTests.pdb
+C:\home\Dashboard\DashboardTests\obj\Debug\netcoreapp2.2\DashboardTests.dll
+C:\home\Dashboard\DashboardTests\obj\Debug\netcoreapp2.2\DashboardTests.pdb

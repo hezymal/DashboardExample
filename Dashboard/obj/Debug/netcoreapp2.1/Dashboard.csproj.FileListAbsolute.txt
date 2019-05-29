@@ -1,0 +1,11 @@
+C:\home\dashboard\bin\Debug\netcoreapp2.1\Dashboard.deps.json
+C:\home\dashboard\bin\Debug\netcoreapp2.1\Dashboard.runtimeconfig.json
+C:\home\dashboard\bin\Debug\netcoreapp2.1\Dashboard.runtimeconfig.dev.json
+C:\home\dashboard\bin\Debug\netcoreapp2.1\Dashboard.dll
+C:\home\dashboard\obj\Debug\netcoreapp2.1\Dashboard.csproj.CoreCompileInputs.cache
+C:\home\dashboard\obj\Debug\netcoreapp2.1\Dashboard.AssemblyInfoInputs.cache
+C:\home\dashboard\obj\Debug\netcoreapp2.1\Dashboard.AssemblyInfo.cs
+C:\home\dashboard\bin\Debug\netcoreapp2.1\Dashboard.pdb
+C:\home\dashboard\obj\Debug\netcoreapp2.1\Dashboard.dll
+C:\home\dashboard\obj\Debug\netcoreapp2.1\Dashboard.pdb
+C:\home\dashboard\obj\Debug\netcoreapp2.1\Dashboard.csprojAssemblyReference.cache
