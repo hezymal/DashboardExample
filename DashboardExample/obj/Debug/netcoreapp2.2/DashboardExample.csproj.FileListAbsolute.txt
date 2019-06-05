@@ -1,0 +1,3 @@
+C:\home\DashboardExample\dashboard\obj\Debug\netcoreapp2.2\DashboardExample.csproj.CoreCompileInputs.cache
+C:\home\DashboardExample\dashboard\obj\Debug\netcoreapp2.2\DashboardExample.AssemblyInfoInputs.cache
+C:\home\DashboardExample\dashboard\obj\Debug\netcoreapp2.2\DashboardExample.AssemblyInfo.cs

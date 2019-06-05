@@ -1,0 +1,4 @@
+C:\home\DashboardExample\DashboardTests\obj\Debug\netcoreapp2.2\DashboardExampleTests.csprojAssemblyReference.cache
+C:\home\DashboardExample\DashboardTests\obj\Debug\netcoreapp2.2\DashboardExampleTests.csproj.CoreCompileInputs.cache
+C:\home\DashboardExample\DashboardTests\obj\Debug\netcoreapp2.2\DashboardExampleTests.AssemblyInfoInputs.cache
+C:\home\DashboardExample\DashboardTests\obj\Debug\netcoreapp2.2\DashboardExampleTests.AssemblyInfo.cs
